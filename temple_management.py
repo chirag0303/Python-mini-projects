@@ -1,3 +1,7 @@
+#this project uses python with database MySQL 
+# you need to install the mysql software
+# change the password in program before running it
+
 import mysql.connector
 mydb=mysql.connector.connect(host="localhost",user="root",password="1234")
 
