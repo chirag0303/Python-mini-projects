@@ -1,6 +1,10 @@
 #this project uses python with database MySQL 
 # you need to install the mysql software
 # change the password in program before running it
+#This project is managing the details of some temples.
+#After running this program you need to enter the username and password.
+#Username : VPS 
+#Password : secret@123
 
 import mysql.connector
 mydb=mysql.connector.connect(host="localhost",user="root",password="1234")
