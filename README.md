@@ -1,2 +1,3 @@
 # projects
-This repository is for the projects that I have made in my school and college.
+Two python mini-projects that i have developed in My school and college
+
